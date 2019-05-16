@@ -22,7 +22,7 @@ There are also several ways to contribute to the Meteor Project outside of GitHu
 If you can think of any changes to the project, [documentation](https://github.com/meteor/docs), or [guide](https://github.com/meteor/guide) that would improve the contributor experience, let us know by opening an issue in the correct repository!
 
 ### Finding work
-Meteor uses [GitHub Issues](https://github.com/meteor/meteor/issues) to track potential contributions with the code. 
+Meteor uses [GitHub Issues](https://github.com/meteor/meteor/issues) to track potential contributions to the codebase. 
 
 We curate specific issues that would make great pull requests for community contributors by applying the `pull-requests-encouraged` label ([bugs](https://github.com/meteor/meteor/issues?q=is%3Aopen+is%3Aissue+label%3Apull-requests-encouraged) / [feature requests](https://github.com/meteor/meteor-feature-requests/issues?q=is%3Aopen+is%3Aissue+label%3Apull-requests-encouraged)).
 
